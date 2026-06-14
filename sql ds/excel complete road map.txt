@@ -1,0 +1,101 @@
+Week 1: Excel Fundamentals + Data Analysis
+Day 1: Excel Basics
+Rows, columns, worksheets
+Formatting
+Sorting and filtering
+Freeze panes
+Conditional formatting
+Practice: Create a simple employee dataset and format it professionally.
+Day 2: Essential Formulas
+Learn:
+SUM
+AVERAGE
+MIN
+MAX
+COUNT
+COUNTA
+ROUND
+Practice: Analyze sales data and calculate totals and averages.
+Day 3: Logical Functions
+Learn:
+IF
+AND
+OR
+IFERROR
+Practice: Create pass/fail and performance-rating calculations.
+Day 4: Text Functions
+Learn:
+LEFT
+RIGHT
+MID
+LEN
+TRIM
+CONCAT/TEXTJOIN
+Practice: Clean messy customer-name data.
+Day 5: Lookup Functions
+Learn:
+VLOOKUP
+HLOOKUP
+XLOOKUP
+INDEX + MATCH
+Practice: Match employee IDs with department information.
+Day 6: Data Cleaning
+Learn:
+Remove Duplicates
+Text to Columns
+Find & Replace
+Data Validation
+Practice: Clean a raw sales dataset.
+Day 7: Revision Project
+Build:
+Employee Performance Tracker or
+Sales Analysis Sheet
+Week 2: Advanced Excel for Data Analysts
+Day 8: Pivot Tables
+Learn:
+Create Pivot Tables
+Group data
+Summarize metrics
+Day 9: Pivot Charts
+Learn:
+Column charts
+Bar charts
+Line charts
+Pie charts
+Day 10: Advanced Functions
+Learn:
+SUMIFS
+COUNTIFS
+AVERAGEIFS
+Practice: Regional sales analysis.
+Day 11: Date Functions
+Learn:
+TODAY
+NOW
+DATEDIF
+EOMONTH
+YEAR
+MONTH
+Day 12: Dashboard Basics
+Learn:
+KPI cards
+Charts
+Slicers
+Layout design
+Day 13: Build a Dashboard
+Create:
+Sales Dashboard or
+HR Dashboard
+Day 14: Final Portfolio Project
+Build a complete project:
+Raw dataset
+Data cleaning
+Analysis with formulas
+Pivot tables
+Dashboard
+End Goal
+By Day 14, you should be able to: ✅ Clean data
+✅ Use lookup functions
+✅ Create Pivot Tables
+✅ Build dashboards
+✅ Answer most Excel interview questions for entry-level Data Analyst roles
